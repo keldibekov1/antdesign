@@ -1,4 +1,3 @@
-import React from "react";
 
 const Header = () => {
   // {text:"asdsad", id:15151515}
